@@ -24,6 +24,10 @@ public class AboutWindow extends JFrame {
 	/**
 	 * Create the aboutWindow frame
 	 */
+	
+	
+	
+	
 	private AboutWindow() {
 		setTitle(BUNDLE.getString("AboutWindow.this.title")); //$NON-NLS-1$
 		setBounds(100, 100, 347, 260);
