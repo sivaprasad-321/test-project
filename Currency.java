@@ -24,6 +24,9 @@ public class Currency {
 		this.name = name;
 	}
 	
+	
+	
+	
 	// Getter for shortName
 	public String getShortName() {
 		return this.shortName;
